@@ -1,0 +1,13 @@
+[Bookmarks]
+Z:\Blender_NAS\
+[Recent]
+\\192.168.1.15\8TB_General\Blender_NAS\Minecraft\
+\\192.168.1.15\8TB_General\Blender_NAS\Marvel\
+\\192.168.1.15\8TB_General\Blender_NAS\ICS\
+\\192.168.1.15\8TB_General\Blender_NAS\My House\Ref\
+\\192.168.1.15\8TB_General\Blender_NAS\My House\
+C:\Windows\Fonts\
+\\192.168.1.15\8TB_General\Blender_NAS\Christmas 2020\
+\\192.168.1.15\8TB_General\Blender_NAS\Station 1 Recreation\Ref\
+\\192.168.1.15\8TB_General\Blender_NAS\Video Game Consoles\
+\\192.168.1.15\8TB_General\Blender_NAS\Nintendo Consoles\

@@ -1,0 +1,13 @@
+[Bookmarks]
+Z:\Blender_NAS\
+[Recent]
+\\192.168.1.15\8TB_General\Blender_NAS\Station 1 Recreation\Ref\
+\\192.168.1.15\8TB_General\Blender_NAS\Video Game Consoles\
+\\192.168.1.15\8TB_General\Blender_NAS\Nintendo Consoles\
+\\192.168.1.15\8TB_General\Blender_NAS\USPS\
+Z:\Blender_NAS\- Textures and Materials\- HDRI's\
+C:\Windows\Fonts\
+\\192.168.1.15\8TB_General\Blender_NAS\Station 1 Recreation\
+\\192.168.1.15\8TB_General\Blender_NAS\Transmission Tower Recreation\
+Z:\Blender_NAS\Electric Grid\
+\\192.168.1.15\8TB_General\Blender_NAS\Electric Grid\
