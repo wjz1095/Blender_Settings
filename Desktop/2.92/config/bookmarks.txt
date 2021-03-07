@@ -1,13 +1,13 @@
 [Bookmarks]
 Z:\Blender_NAS\
 [Recent]
+\\192.168.1.15\8TB_General\Blender_NAS\- Textures and Materials\Minecraft\block\
+\\192.168.1.15\8TB_General\Blender_NAS\Projects\Minecraft\
+\\192.168.1.15\8TB_General\Blender_NAS\Projects\Station 1 Recreation\
+\\192.168.1.15\8TB_General\Blender_NAS\- HDRI's\
 \\192.168.1.15\8TB_General\Blender_NAS\Projects\Soda Commercial 1\
 \\192.168.1.15\8TB_General\Blender_NAS\Projects\Flynn's Arcade\
 \\192.168.1.15\8TB_General\Blender_NAS\Projects\Raining Men\
-\\192.168.1.15\8TB_General\Blender_NAS\- HDRI's\
 \\192.168.1.15\8TB_General\Blender_NAS\Projects\Videogame Currency\
 \\192.168.1.15\8TB_General\Blender_NAS\Projects\Weaponry\
 \\192.168.1.15\8TB_General\Blender_NAS\Projects\Eric Likes Big Wiener\
-C:\Windows\Fonts\
-\\192.168.1.15\8TB_General\Blender_NAS\- HDRI's\HDR_Free_City_Night_Lights\
-\\192.168.1.15\8TB_General\Music\Music_By_Genre\Drum n Bass\Stan SB\

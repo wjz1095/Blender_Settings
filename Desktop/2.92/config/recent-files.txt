@@ -1,3 +1,5 @@
+\\192.168.1.15\8TB_General\Blender_NAS\Projects\Minecraft\Minecraft.blend
+\\192.168.1.15\8TB_General\Blender_NAS\Projects\Station 1 Recreation\Station 1 Recreation.blend
 \\192.168.1.15\8TB_General\Blender_NAS\Projects\Soda Commercial 1\Soda Commercial 1.blend
 \\192.168.1.15\8TB_General\Blender_NAS\Projects\Flynn's Arcade\Flynns Arcade.blend
 \\192.168.1.15\8TB_General\Blender_NAS\Projects\Raining Men\Raining Men.blend
@@ -6,5 +8,3 @@
 \\192.168.1.15\8TB_General\Blender_NAS\Projects\Hotto Doggo\Hotto Doggo.blend
 \\192.168.1.15\8TB_General\Blender_NAS\Projects\Anatomy\Human Anatomy.blend
 \\192.168.1.15\8TB_General\Blender_NAS\Projects\Weaponry\Weaponry.blend
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Eric Likes Big Wiener\Eric Likes Big Wiener.blend
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Traffic Control Devices\Traffic Control Devices.blend
