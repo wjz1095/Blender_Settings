@@ -1,10 +1,10 @@
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Minecraft\Minecraft.blend
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Station 1 Recreation\Station 1 Recreation.blend
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Soda Commercial 1\Soda Commercial 1.blend
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Flynn's Arcade\Flynns Arcade.blend
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Raining Men\Raining Men.blend
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Videogame Currency\Videogame Currency.blend
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Poseidens Kiss\Posiedens Kiss.blend
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Hotto Doggo\Hotto Doggo.blend
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Anatomy\Human Anatomy.blend
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Weaponry\Weaponry.blend
+Z:\Blender_NAS\Projects\Fallguys\Fallguys.blend
+Z:\Blender_NAS\Projects\Volleyball\Volleyball.blend
+Z:\Blender_NAS\Projects\Promgal\Promgal.blend
+Z:\Blender_NAS\Projects\Puzzle Planet\Puzzle Planet.blend
+Z:\Blender_NAS\Projects\Fountain\Fountain.blend
+\\192.168.1.15\8TB_General\Blender_NAS\Projects\Vehicles\Vehicles.blend
+\\192.168.1.15\8TB_General\Blender_NAS\Projects\Longfish\Longfish.blend
+\\192.168.1.15\8TB_General\Blender_NAS\Projects\Lightbulb\Lightbulb.blend
+\\192.168.1.15\8TB_General\Blender_NAS\Projects\Anatomy\Hands.blend
+\\192.168.1.15\8TB_General\Blender_NAS\Projects\City 1\City 1.blend
