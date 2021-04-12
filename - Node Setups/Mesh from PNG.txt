@@ -1,0 +1,5 @@
+1. Create a plane
+2. Subdivide the plane a LOT
+3. Add a displacement modifier to the plane
+4. Add a texture to the displacement modifier
+5. Set the PNG you want to use as the image used in the displacement modifier texture
