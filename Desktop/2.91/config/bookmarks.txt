@@ -1,13 +1,14 @@
 [Bookmarks]
 Z:\Blender_NAS\
+C:\Users\Wally\Documents\Blender_Omega\
 [Recent]
+Z:\Blender_NAS\Projects\Speedometer\
+C:\Users\Wally\Documents\Blender_Omega\- HDRI's\
+C:\Windows\Fonts\
+Z:\Blender_NAS\- Addons\
+Z:\Blender_NAS\Projects\Alleyway\
+\\192.168.1.15\ZacekNAS\Blender_NAS\Projects\Fallguys\
+C:\tmp\
+\\192.168.1.15\8TB_General\Blender_NAS\- HDRI's\
 \\192.168.1.15\8TB_General\Blender_NAS\Projects\Soda Commercial 1\
 \\192.168.1.15\8TB_General\Blender_NAS\Projects\Flynn's Arcade\
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Raining Men\
-\\192.168.1.15\8TB_General\Blender_NAS\- HDRI's\
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Videogame Currency\
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Weaponry\
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Eric Likes Big Wiener\
-C:\Windows\Fonts\
-\\192.168.1.15\8TB_General\Blender_NAS\- HDRI's\HDR_Free_City_Night_Lights\
-\\192.168.1.15\8TB_General\Music\Music_By_Genre\Drum n Bass\Stan SB\

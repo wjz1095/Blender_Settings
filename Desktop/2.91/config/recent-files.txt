@@ -1,10 +1,10 @@
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Soda Commercial 1\Soda Commercial 1.blend
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Flynn's Arcade\Flynns Arcade.blend
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Raining Men\Raining Men.blend
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Videogame Currency\Videogame Currency.blend
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Poseidens Kiss\Posiedens Kiss.blend
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Hotto Doggo\Hotto Doggo.blend
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Anatomy\Human Anatomy.blend
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Weaponry\Weaponry.blend
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Eric Likes Big Wiener\Eric Likes Big Wiener.blend
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Traffic Control Devices\Traffic Control Devices.blend
+C:\Users\Wally\Documents\Blender_Omega\Hi-Res Earth.blend
+\\192.168.1.15\ZacekNAS\Blender_NAS\Projects\Puzzle Planet\Puzzle Planet.blend
+C:\Users\Wally\Downloads\pharah-v4-0-1\pharah-bodyhack-526.blend
+Z:\Blender_NAS\Projects\Speedometer\Speedometer.blend
+Z:\Blender_NAS\Projects\Alleyway\Alleyway.blend
+C:\Users\Wally\Downloads\Mercedes C63-AMG-ReadyV2\Mercedes C63-AMG-ReadyV2.blend
+C:\Users\Wally\Downloads\Blender 2.blend
+C:\Users\Wally\Downloads\Blender 2 (1).blend
+C:\Users\Wally\Downloads\Blender 2 (2).blend
+C:\Users\Wally\Downloads\Rain v2\rain_v2_3.blend

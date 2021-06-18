@@ -1,13 +1,15 @@
 [Bookmarks]
+\\192.168.1.15\8TB_General\Blender_NAS\
 Z:\Blender_NAS\
+C:\Users\Wally\Documents\Blender_Omega\
 [Recent]
-\\192.168.1.15\8TB_General\Blender_NAS\- Textures and Materials\Minecraft\block\
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Minecraft\
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Station 1 Recreation\
-\\192.168.1.15\8TB_General\Blender_NAS\- HDRI's\
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Soda Commercial 1\
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Flynn's Arcade\
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Raining Men\
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Videogame Currency\
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Weaponry\
-\\192.168.1.15\8TB_General\Blender_NAS\Projects\Eric Likes Big Wiener\
+Z:\Blender_NAS\Projects\Candies\
+C:\Users\Wally\Downloads\hersheys\
+Z:\Blender_NAS\- HDRI's\
+C:\Users\Wally\Documents\Blender_Omega\- HDRI's\
+Z:\Blender_NAS\Projects\Apartment Buildings\
+Z:\Blender_NAS\Projects\Flash\
+Z:\Blender_NAS\Projects\New Folder\
+C:\Users\Wally\Documents\Blender_Omega\
+C:\Users\Wally\Documents\Blender_Omega\DeathStars.blend\
+C:\Users\Wally\Downloads\deathstar2(MAX4)\DeathStarV2byThomasBanner\
